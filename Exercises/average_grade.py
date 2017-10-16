@@ -8,4 +8,9 @@ def average_grade(lst):
     >>> [['Bob', 74.5], ['Alice', 65.5]]
     """
 
-    # your code here
+    # your code here                                            
+    results = list()    
+    for item in lst:
+        average = sum(item[1:])/len(item[1:])
+        results.append([item[0], average])
+    return results

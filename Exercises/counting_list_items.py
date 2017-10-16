@@ -9,3 +9,7 @@ def count_items(lst):
     """
 
     # your code here
+    result = dict()
+    for item in lst:
+        result[item] = lst.count(item)
+    return result
