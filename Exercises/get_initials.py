@@ -14,3 +14,9 @@ def get_initials(name):
     """
 
     # your code here
+def get_initials(name):
+    initials = ""
+    for i in name.split(" "):
+        if i != "NA":
+        initials += "{}{}".format(i[0], ".")
+    return initials
