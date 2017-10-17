@@ -12,9 +12,9 @@ def is_int(n):
     """ Return True if n is an integer.
 
     >>> is_int('3.0')
-    >>> True
+    True
     >>> is_int('3.002')
-    >>> False
+    False
     """
 
     # your code here

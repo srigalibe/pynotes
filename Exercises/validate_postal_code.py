@@ -23,7 +23,7 @@ def postalValidate(S):
     If S is valid, return it in the format L#L#L# where each L is capital.
     
     >>> postalValidate(' d3 L3 T3')
-    >>> 'D3L3T3'
+    'D3L3T3'
     """
 
     # your code here

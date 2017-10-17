@@ -5,7 +5,7 @@ def average_grade(lst):
     """ Return students' names and their average grades.
     
     >>> average_grade([['Bob', 56, 80, 72, 90], ['Alice', 60, 88, 44, 70]])
-    >>> [['Bob', 74.5], ['Alice', 65.5]]
+    [['Bob', 74.5], ['Alice', 65.5]]
     """
 
     # your code here

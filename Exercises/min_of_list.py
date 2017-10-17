@@ -4,9 +4,9 @@ def get_min(numbers):
 
     >>> nums = [3, 4, 1]
     >>> get_min(nums)
-    >>> [1]
+    [1]
     >>> nums
-    >>> [3, 4]
+    [3, 4]
     """
 
     # your code here

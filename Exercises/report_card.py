@@ -13,7 +13,7 @@ def get_report_card(name, score):
     """ Return a report card with name, score, and grade based on score.
     
     >>> get_report_card('Bob', 80)
-    >>> OrderedDict([('Name', 'Bob'), ('Score', 80), ('Grade', 'Excellent')])
+    OrderedDict([('Name', 'Bob'), ('Score', 80), ('Grade', 'Excellent')])
     """
 
     # your code here

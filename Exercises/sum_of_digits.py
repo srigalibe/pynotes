@@ -4,7 +4,7 @@ def sum_of_digits(number):
     """ Return sum of the digits of a number
     
     >>> sum_digits(1234)
-    >>> 1
+    10
     """
 
     # your code here

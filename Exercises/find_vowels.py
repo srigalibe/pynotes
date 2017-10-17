@@ -6,7 +6,7 @@ def find_vowels(word):
         a False for a non-vowel.
     
     >>> find_vowels('detestable')
-    >>> [False, True, False, True, False, False, True, False, False, True]
+    [False, True, False, True, False, False, True, False, False, True]
     """
 
     # your code here

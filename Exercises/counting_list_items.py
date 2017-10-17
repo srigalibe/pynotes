@@ -5,7 +5,7 @@ def count_items(lst):
     """ Return counts of the list items.
     
     >>> count_items(['one', 'two', 'two', 'three', 'three', 'three'])
-    >>> {'one': 1, 'three': 3, 'two': 2}
+    {'one': 1, 'three': 3, 'two': 2}
     """
 
     # your code here

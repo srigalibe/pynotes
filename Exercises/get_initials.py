@@ -8,9 +8,9 @@ def get_initials(name):
     If the middle name is 'NA', return only the initials of the first and the last name.
     
     >>> get_initials("Alfred E. Newman")
-    >>> 'A.E.N.'
+    'A.E.N.'
     >>> get_initials("John NA Smith")
-    >>> 'J.S.'
+    'J.S.'
     """
 
     # your code here

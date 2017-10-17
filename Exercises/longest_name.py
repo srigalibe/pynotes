@@ -5,11 +5,11 @@ def get_longest_name(a_list):
         in the list.
     
     >>> get_longest_name(["Candide", "Jessie", "Kath", "Amity", "Raeanne"])
-    >>> '******'
+    '******'
     >>> get_longest_name(["Jessie", "Kath", "Amity", "Raeanne"])
-    >>> '******'
+    '******'
     >>> get_longest_name(["Jessie", "Kath", "Amity"])
-    >>> 'Jessie'
+    'Jessie'
     """
 
     # your code here
