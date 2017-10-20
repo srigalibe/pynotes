@@ -35,7 +35,7 @@ def is_float(n):
 # Testing the functions
 
 """
-nums = ['12', '12.3', '12.0', '123.002']
+nums = [12, 12.3, 12.0, 123.002]
 
 for num in nums:
     if is_int(num):
