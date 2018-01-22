@@ -1,6 +1,6 @@
 def add_cubes(number):    
-    """ Return True or False if the sum of the cubes of the digits in the number
-        is equal to the number itself.
+    """ Return True if the sum of the cubes of the digits in the number
+        is equal to the number itself, else return False.
     
     >>> add_cubes(153)
     True    
